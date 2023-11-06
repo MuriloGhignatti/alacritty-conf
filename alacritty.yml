@@ -1,0 +1,14 @@
+import:
+  - "C:/Users/muril/AppData/Roaming/alacritty/rose-pine.yml"
+
+window:
+  opacity: 0.8
+  dynamic_title: true
+
+working_directory: C:/Users/muril/Desktop
+
+font:
+  normal:
+    family: JetBrainsMono Nerd Font
+    style: Regular
+  size: 14
